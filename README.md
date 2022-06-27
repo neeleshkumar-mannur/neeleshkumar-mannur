@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neeleshkumar-mannur
 - 👀 I’m interested in Machine Learning, Software Engineering, Distributed Systems
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript, ReactJS, CSS
 - 💞️ I’m looking to collaborate on building distributed systems
 - 📫 How to reach me ...
 
